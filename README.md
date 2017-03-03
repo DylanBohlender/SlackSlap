@@ -16,5 +16,6 @@ Run `npm install` in the repository directory - the one with package.json.
 
 #6) Deploy the repository to Heroku.
 
-NOTE: This is heavily inspired by "Slack Slash Commands as a Service" by danielsamuels - check his site out! https://sscaas.eu/
-NOTE: Inspiration was also drawn from "Getting Started with Slack Bots" by Taylor Brennan - check out that tutorial as well! https://www.sitepoint.com/getting-started-slack-bots/
+*NOTE:* This is heavily inspired by "Slack Slash Commands as a Service" by danielsamuels - check his site out! https://sscaas.eu/
+
+*NOTE:* Inspiration was also drawn from "Getting Started with Slack Bots" by Taylor Brennan - check out that tutorial as well! https://www.sitepoint.com/getting-started-slack-bots/
