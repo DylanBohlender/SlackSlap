@@ -10,6 +10,8 @@ Go to "Apps & Integrations," "Manage," "Custom Integrations," "Incoming WebHooks
 
 #4) Clone the repository to your local filesystem.
 
+Run `npm install` in the repository directory - the one with package.json.
+
 #5) Fill in and commit values for "herokuInstanceURL" and "exports.slackWebhookPath" in the app.js file.
 
 #6) Deploy the repository to Heroku.
