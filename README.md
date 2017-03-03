@@ -18,15 +18,15 @@ Pick any channel for the integration (it will be able to post in all channels an
 
 Save the settings.
 
-#4) Clone the repository to your local filesystem using git clone.
+#4) Clone the repository to your local filesystem.
+
+Use `git clone https://github.com/DylanBohlender/SlackSlap.git` to grab the repo locally.
+
+Enter the repository with `cd slackslap`.
 
 Log in to the Heroku CLI with `heroku login` (install the Heroku CLI if you haven't before this point).
 
 Hook Heroku up to your git repository with `heroku git:remote -a yourherokuappname`.
-
-Push your Heroku
-
-
 
 #5) Fill in your instance-specific values and commit them.
 
