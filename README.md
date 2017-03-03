@@ -42,8 +42,6 @@ Run `git push heroku master` to auto-deploy the code to Heroku.
 
 #7) Enjoy!
 
-~~~
-
 **NOTE:** This is heavily inspired by "Slack Slash Commands as a Service" by danielsamuels - check his site out! https://sscaas.eu/
 
 **NOTE:** Inspiration was also drawn from "Getting Started with Slack Bots" by Taylor Brennan - check out that tutorial as well! https://www.sitepoint.com/getting-started-slack-bots/
