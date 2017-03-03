@@ -188,8 +188,7 @@ function payload_highfive(user, slappedUser, channelID) {
 }
 
 function send(payload, callback) {
-    var path = myApp.slackPath;
-    var uri = 'https://hooks.slack.com/services' + path;
+    var uri = myApp.slackWebhookPath;
   
     request({
         uri: uri,
